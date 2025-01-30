@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@stripe/stripe-react-native": "^0.41.0",
+    "expo": "^52.0.28"
+  },
+  "devDependencies": {
+    "@react-native-community/cli": "^15.1.3"
+  }
+}
